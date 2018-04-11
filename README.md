@@ -1,3 +1,2 @@
 # BlogRelation
-Record the whole codes of the blog
-blog address：https://blog.csdn.net/hbu_pig
+Record the whole codes of the blog：https://blog.csdn.net/hbu_pig
